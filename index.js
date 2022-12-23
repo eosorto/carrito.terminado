@@ -1,5 +1,5 @@
 
-//variables
+//    variables
 const lista=document.querySelector('.caja1')
 const iconoCarrito=document.querySelector('.img-car')
 const contenedorTabla=document.querySelector('.container-table')
